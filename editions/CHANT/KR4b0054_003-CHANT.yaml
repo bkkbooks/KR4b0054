@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0054/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附錄以下據劉孝標集校注頁附錄二劉孝標佚句輯存列出備作參考近發連雙兔高瞻落九烏明楊慎哲匠金桴卷一叢蘭已飛蝶楊柳半藏鴉哲匠金桴卷二海上流霞酌淮南承月杯楊慎謝華啟秀卷四業習移其天識世服沒其性靈謝華啟秀卷四
+  hash: sha256:ed0104c6d48136cd292657e54230b44470d54c1c29a0d1034864e21dd953d938
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0054_CHANT_003-1a.1-h}
+metadata:
+  title: 劉孝標集二卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0054.xml
+hash: sha256:cedc297ad39806a24a8e1783ce52fc5b8d710281f28403de6c26064fcb592aaf
